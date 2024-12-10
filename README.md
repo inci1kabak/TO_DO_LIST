@@ -8,6 +8,6 @@ A simple **React**-based To-Do List application. This app allows users to add ta
 - List tasks
 - Delete tasks
 
-  ![Ekran Görüntüsü](https://github.com/inci1kabak/Get_Random_Number/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-12-10%20161530.png?raw=true)
+  ![Ekran Görüntüsü](https://github.com/inci1kabak/TO_DO_LIST/blob/main/public/img/SS.png?raw=true)
 
   
