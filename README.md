@@ -4,9 +4,9 @@ A simple **React**-based To-Do List application. This app allows users to add ta
 
 **Features:**
 
-- Add new tasks
-- List tasks
-- Delete tasks
+* Add new tasks
+* List tasks
+* Delete tasks
 
 
  **Image:**
